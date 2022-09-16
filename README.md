@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Euiseon Lee</h1>
 <h3 align="center">A passionate backend pre-developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=0e75b6&style=flat" alt="euiseon-lee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=%23B445D7&style=flat" alt="euiseon-lee" /> </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEuiseon-Lee&count_bg=%23B445D7&title_bg=%236B6B6C&icon=&icon_color=%23FFFAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
