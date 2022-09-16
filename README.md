@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=180&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=170&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
 
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Euiseon Lee</h1>
+### Euiseon Lee
 <h3 align="center">A passionate backend pre-developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" /> </p>
