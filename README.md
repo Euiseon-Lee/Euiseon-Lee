@@ -4,9 +4,12 @@
   
   <h3 align=center>A passionate backend pre-developer in Korea</h3>
   <h5 align=center>Contact with me</h5>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)](mailto:inia8inia@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)]
 
     
+
+
+
 
 * * *
 
