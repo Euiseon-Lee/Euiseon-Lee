@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi%20👋,%20I'm%20Euiseon%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=150&section=header&text=Hi%20👋,%20Euiseon%20&fontSize=90)
 
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Euiseon Lee</h1>
