@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Euiseon Lee</h1>
 <h3 align="center">A passionate backend pre-developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=9944c9&style=flat" alt="euiseon-lee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euiseon-lee" alt="euiseon-lee" /></a> </p>
 
