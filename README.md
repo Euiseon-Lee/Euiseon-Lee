@@ -6,12 +6,14 @@
   <h3>A passionate backend pre-developer in Korea</h3>
   <h3>Connect with me: inia8inia@gmail.com</h3>
 </div>
-
+<br />
 * * *
 
 <div align=center>
 
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euiseon-lee" alt="euiseon-lee" /></a> </p>
+  
+  <br />
   
   <p> 
     <h3> 🔍 Studying </h3>
