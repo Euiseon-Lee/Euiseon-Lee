@@ -4,7 +4,7 @@
 
 <div align=center>
   <h3>A passionate backend pre-developer in Korea</h3>
-  <h3>Connect with me: inia8inia@gmail.com</h3>
+  <h5>Connect with me: inia8inia@gmail.com</h5>
 </div>
 <br />
 
@@ -27,7 +27,7 @@
 
   <br />
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euiseon-lee&theme=buefy&show_icons=true&locale=en&layout=demo" alt="euiseon-lee" /></p>
+  <p><br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euiseon-lee&theme=buefy&show_icons=true&locale=en&layout=demo" alt="euiseon-lee" /></p>
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&theme=buefy&show_icons=true&locale=en" alt="euiseon-lee" /></p>
 
