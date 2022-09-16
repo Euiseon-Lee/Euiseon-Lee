@@ -5,7 +5,8 @@
 <div align=center>
   <h3>A passionate backend pre-developer in Korea</h3>
 </div>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:inia8inia@gmail.com)
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)](mailto:inia8inia@gmail.com)
 
 
 
