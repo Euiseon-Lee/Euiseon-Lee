@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euiseon-lee" alt="euiseon-lee" /></a> </p>
 
-<h3 align="left">Connect with me: #EA4335inia8inia@gmail.com</h3>
+<h3 align="left">Connect with me: inia8inia@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -17,6 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&show_icons=true&locale=en" alt="euiseon-lee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euiseon-lee&" alt="euiseon-lee" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euiseon-lee&" alt="euiseon-lee" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euiseon-Lee)](https://github.com/Euiseon-Lee/github-readme-stats)
+</p>
+
+
