@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=170&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=160&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
 
 ### <h3 align="center">A passionate backend pre-developer in Korea</h3>
 
