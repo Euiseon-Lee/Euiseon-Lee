@@ -17,8 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&show_icons=true&locale=en" alt="euiseon-lee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euiseon-lee&" alt="euiseon-lee" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euiseon-Lee)](https://github.com/Euiseon-Lee/github-readme-stats)
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euiseon-lee&" alt="euiseon-lee" /></p>
+
 
 
