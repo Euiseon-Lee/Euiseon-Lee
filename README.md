@@ -27,7 +27,7 @@
 
   <br />
 
-  <p><br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euiseon-lee&theme=buefy&show_icons=true&locale=en&layout=demo" alt="euiseon-lee" /></p>
+  <p><br /><br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euiseon-lee&theme=buefy&show_icons=true&locale=en&layout=demo" alt="euiseon-lee" /></p>
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&theme=buefy&show_icons=true&locale=en" alt="euiseon-lee" /></p>
 
