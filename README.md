@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Euiseon Lee</h1>
 <h3 align="center">A passionate backend pre-developer from Korea</h3>
