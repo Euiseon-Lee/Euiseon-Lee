@@ -1,11 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" /> </p>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
 
 <h3 align="center">A passionate backend pre-developer in Korea</h3>
 
 <div align=center>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" /> </p>
-
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euiseon-lee" alt="euiseon-lee" /></a> </p>
 
   <h3>Connect with me: inia8inia@gmail.com</h3>
