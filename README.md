@@ -2,8 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
   
-  <h3 align=center>A passionate backend pre-developer in Korea</h3>
-  <h5 align=center>Contact with me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)](mailto:inia8inia@gmail.com) <h5>
+  <h3 align=center>A passionate backend junior developer in Korea</h3>
+  <h4></h4>
+  <h5 align=center>Contact with me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)](mailto:inia8inia@gmail.com)<h5>
   
 
 
@@ -18,7 +19,16 @@
   <br />
   
   <p> 
-    <h3> 🔍 Studying </h3>
+    <h3> 💪 Skills </h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sprin-6DB33F?style=flat&logo=Spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+
+  
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
