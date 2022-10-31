@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/
-IntelliJ IDEA-000000?style=flat&logo=
-IntelliJ IDEA&logoColor=white" />
+IntelliJ-000000?style=flat&logo=
+IntelliJ&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   </p>
 
