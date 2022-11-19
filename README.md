@@ -4,8 +4,8 @@
   
   <h3 align=center>A steady backend junior developer in Korea</h3>
   
-  <h5>
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com"     style="height : auto; align=center;"/>
+  <h5 align="center">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com"     style="height : auto;"/>
   </h5>
   
 </br>
