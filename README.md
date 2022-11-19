@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ IDEA-0285e8?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle DB&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   </p>
