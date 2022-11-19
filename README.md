@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
   
   <h3 align=center>A passionate backend junior developer in Korea</h3>
-  <div></div>
+  
+  <br>
+  
   <h5 align=center>Contact with me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com)](mailto:inia8inia@gmail.com)<h5>
   
 
