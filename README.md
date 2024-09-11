@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" />
 </p>
 
