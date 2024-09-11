@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" /> </p>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
   
   <h3 align=center>A steady junior web developer in Korea</h3>
   
@@ -22,7 +22,7 @@
     <h3> 🛠 Experience </h3>
     <h5> **Junior Web Developer** at [Company Name] (2022.08 - Present) </h5>
   </p>
-  
+  <br />
   <p> 
     <h3> 💪 Currently Learning </h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -32,10 +32,11 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-069AF3?style=flat&logo=Azure&logoColor=white" />
   </p>
-
+  <br />
   <p> 
     <h3> 💬 About Me </h3>
-    <h5>I mainly focus on backend development, and my ultimate goal is to become a developer who leads system architecture with a deep understanding of technology, underpinned by a solid foundation in computer science. I am driven by a passion for designing efficient, scalable systems and continuously improving my knowledge to deliver high-quality solutions.</h5>
+    <h5>I mainly focus on backend development, and my ultimate goal is to become a developer who leads system architecture with a deep understanding of technology, underpinned by a solid foundation in computer science.</h5>
+    <h5>I am driven by a passion for designing efficient, scalable systems and continuously improving my knowledge to deliver high-quality solutions.</h5>
   </p>
 
   <br />
