@@ -19,8 +19,12 @@
   <br />
 
   <p> 
-    <h3> 🛠 Experience </h3>
-    <h5> **Junior Web Developer** at [Company Name] (2022.08 - Present) </h5>
+    <h3> 🌐 <strong>Junior Web Developer</strong> at NileSOFT (2022.08 - Present) </h3>
+    <ul>
+      <li>Developed Secuguard SSE using Javascript, Java and Spring Framework</li>
+      <li>Improved query performance and optimized database operations in PostgreSQL</li>
+      <li>Generated CCE scan result reports using Aspose.Cells for Java and Apache POI</li>
+    </ul>
   </p>
   <br />
   <p> 
@@ -35,8 +39,9 @@
   <br />
   <p> 
     <h3> 💬 About Me </h3>
-    <h5>I mainly focus on backend development, and my ultimate goal is to become a developer who leads system architecture with a deep understanding of technology, underpinned by a solid foundation in computer science.</h5>
-    <h5>I am driven by a passion for designing efficient, scalable systems and continuously improving my knowledge to deliver high-quality solutions.</h5>
+    <h5>I mainly focus on backend development, with a strong emphasis on creating efficient, scalable systems.</h5>
+    <h5>My ultimate goal is to lead system architecture, combining a deep understanding of technology with a solid foundation in computer science</h5>
+    <h5>I am passionate about continuously improving my skills and knowledge to deliver high-quality solutions.</h5>
   </p>
 
   <br />
