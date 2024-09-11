@@ -1,8 +1,10 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=a754e3&style=flat" alt="euiseon-lee" />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=70" alt="header" />
+</p>
 
 <h3 align="center">A steady junior web developer in Korea</h3>
 
