@@ -59,6 +59,4 @@
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&theme=buefy&show_icons=true&locale=en" alt="euiseon-lee" /></p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=euiseon-lee&" alt="euiseon-lee" /></p>
-
 </div>
