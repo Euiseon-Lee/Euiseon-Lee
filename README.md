@@ -8,7 +8,7 @@
 
 <br />
 
-<h3 align="center">A steady junior web developer in Korea</h3>
+<h3 align="center">Backend developer focused on system reliability, structure, and domain-driven design.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inia8inia@gmail.com" style="height: auto;" />
@@ -28,30 +28,32 @@
 
   <br />
 
-  ### 🌐 **Junior Web Developer** at NileSOFT (2022.08 - Present)
-
-  - Developed Secuguard SSE using JavaScript, Java, and Spring Framework
-  - Improved query performance and optimized database operations in PostgreSQL
-  - Generated CCE scan result reports using Aspose.Cells for Java and Apache POI
+  ### 🌐 **Junior Web Developer** at NileSOFT (2022.08 – Present)
+  
+  - Working in the security vulnerability management domain, developing web systems for asset scanning, reporting, and release automation  
+  - Focused on designing systems with reliable data flow, exception handling, and operational stability  
+  - Led the implementation of SSO login and HR database integration, emphasizing flow accuracy and automated synchronization  
+  - Improved large-scale report generation by optimizing stored procedures and restructuring SQL for performance under heavy data loads  
+  - Participated in restructuring integration logic to flexibly support varied HR structures across client environments  
+  - Enhanced internal release tools and actively contributed to incident response and client-side troubleshooting with the consulting team
 
   <br />
 
   ### 💪 Currently Learning
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-069AF3?style=flat&logo=Azure&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 
   <br />
 
-  ### 💬 About Me
-  I mainly focus on backend development, with a strong emphasis on creating efficient, scalable systems.
-
-  My ultimate goal is to lead system architecture, combining a deep understanding of technology with a solid foundation in computer science.
-
-  I am passionate about continuously improving my skills and knowledge to deliver high-quality solutions.
+  ### 💡 About Me
+  
+  I’m a backend-focused web developer who emphasizes system flow, exception handling, and maintainable design.  
+  Rather than just implementing features, I value understanding domain logic and designing systems that are scalable, stable, and adaptable.  
+  I'm especially comfortable working in environments where clarity, structure, and operational continuity are critical.
 
   <br />
 
