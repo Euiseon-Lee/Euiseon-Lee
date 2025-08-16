@@ -28,7 +28,7 @@
 
   <br />
 
-  ### 🌐 **Junior Web Developer** at NileSOFT (2022.08 – Present)
+  ### 🌐 **Junior Web Developer** at NileSOFT (2022.08 – 2025.07)
   
   - Working in the security vulnerability management domain, developing web systems for asset scanning, reporting, and release automation  
   - Focused on designing systems with reliable data flow, exception handling, and operational stability  
