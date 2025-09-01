@@ -59,6 +59,6 @@
   <br />
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=euiseon-lee&theme=buefy&show_icons=true&locale=en" alt="euiseon-lee" /></p>
-  <p>&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inia8inia)](https://solved.ac/inia8inia/)</p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inia8inia)](https://solved.ac/inia8inia/)
   
 </div>
