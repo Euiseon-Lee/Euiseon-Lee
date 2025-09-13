@@ -5,7 +5,7 @@
 
 <!-- 상단 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon%20Lee&fontSize=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=150&section=header&text=Hi👋,%20I'm%20Euiseon&fontSize=60" alt="header" />
 </p>
 
 <br/>
