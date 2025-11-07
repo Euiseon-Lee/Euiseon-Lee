@@ -11,22 +11,23 @@
 <br/>
 
 <!-- 타이틀 -->
-<h3 align="center">
+<h1 align="center">
   🐬 Junior Backend Developer
-</h3>
+</h1>
 
-<!-- 연락 뱃지 -->
-<p align="center">
-  <a href="mailto:inia8inia@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" height="24"></a>
-  <img width="1" height="1" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==">
-  <a href="https://gyulpiki.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat&logo=Tistory&logoColor=white" alt="Tistory Blog" height="24"></a>
-</p>
+<br/>
 
 <!-- 자기 소개 -->
+<h3 align="center">SotaTek Korea (2022.10 – Present)</h3>
 <p align="center">
-  <b>NileSOFT (2022.08 – 2025.07)</b><br/>
-  보안 솔루션 유지보수 및 신규 개발, 업데이트 릴리즈 담당<br/>
-  (Java, Spring, PostgreSQL, JavaScript)
+  외부 프로젝트 백엔드 개발 및 서비스 운영 지원<br/>
+</p>
+
+<br/>
+
+<p align="center">
+  NileSOFT (2022.08 – 2025.07)<br/>
+  보안 솔루션 유지보수 및 개발, 릴리즈 담당<br/>
 </p>
 
 <br/>
