@@ -11,9 +11,9 @@
 <br/>
 
 <!-- 타이틀 -->
-<h1 align="center">
-  🐬 Junior Backend Developer
-</h1>
+<h2 align="center">
+  👶 Junior Backend Developer
+</h2>
 
 <br/>
 
