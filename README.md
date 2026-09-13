@@ -18,9 +18,9 @@
 <br/>
 
 <!-- 자기 소개 -->
-<h3 align="center">SotaTek Korea (2022.10 – Present)</h3>
+<h3 align="center">SotaTek Korea (2025.10 – 2026.09)</h3>
 <p align="center">
-  고객사 프로젝트 백엔드 개발 및 서비스 운영 지원<br/>
+  고객사 프로젝트 개발 및 서비스 운영 지원<br/>
 </p>
 
 <br/>
