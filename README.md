@@ -1,8 +1,8 @@
 <!-- Header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C4B5FD&height=220&section=header&text=Hi,%20I'm%20Euiseon&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%C2%B7%20Spring%20Backend%20Developer&descSize=18&descAlignY=58"
-    alt="Hi, I'm Euiseon — Java · Spring Backend Developer"
+    src="./assets/euiseon-glitter-header-v1.gif"
+    alt="Welcome to Euiseon's GitHub"
     width="100%"
   />
 </p>
@@ -129,10 +129,3 @@ React와 Node.js는 고객사 프로젝트에서 AI 도구의 도움을 받아 �
 </details>
 
 <!-- Footer -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C4B5FD&height=100&section=footer"
-    alt=""
-    width="100%"
-  />
-</p>
