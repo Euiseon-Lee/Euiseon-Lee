@@ -1,0 +1,102 @@
+[
+  {
+    "badge": "java",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+    "background": "#007396"
+  },
+  {
+    "badge": "spring-mvc",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg",
+    "background": "#6DB33F"
+  },
+  {
+    "badge": "spring-boot",
+    "logo": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/springboot.svg",
+    "background": "#6DB33F"
+  },
+  {
+    "badge": "mybatis",
+    "logo": "https://mybatis.org/images/mybatis-logo.png",
+    "background": "#181717"
+  },
+  {
+    "badge": "oracle",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg",
+    "background": "#F80000"
+  },
+  {
+    "badge": "postgresql",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+    "background": "#4169E1"
+  },
+  {
+    "badge": "mysql",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+    "background": "#4479A1"
+  },
+  {
+    "badge": "javascript",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    "background": "#F7DF1E"
+  },
+  {
+    "badge": "jsp",
+    "logo": null,
+    "background": "#007396"
+  },
+  {
+    "badge": "jquery",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg",
+    "background": "#0769AD"
+  },
+  {
+    "badge": "websquare",
+    "logo": null,
+    "background": "#3366CC"
+  },
+  {
+    "badge": "react",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    "background": "#20232A"
+  },
+  {
+    "badge": "nodejs",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    "background": "#339933"
+  },
+  {
+    "badge": "git",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    "background": "#F05032"
+  },
+  {
+    "badge": "github",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    "background": "#181717"
+  },
+  {
+    "badge": "gitlab",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg",
+    "background": "#FC6D26"
+  },
+  {
+    "badge": "slack",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg",
+    "background": "#4A154B"
+  },
+  {
+    "badge": "jira",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg",
+    "background": "#0052CC"
+  },
+  {
+    "badge": "linux",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+    "background": "#FCC624"
+  },
+  {
+    "badge": "docker",
+    "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    "background": "#2496ED"
+  }
+]
