@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/euiseon-lee">
-    <img src="https://img.shields.io/badge/GitHub-euiseon--lee-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://solved.ac/inia8inia/">
-    <img src="https://img.shields.io/badge/Solved.ac-inia8inia-7C3AED?style=flat-square" alt="Solved.ac" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=euiseon-lee&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
 </p>
 
