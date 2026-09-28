@@ -86,10 +86,13 @@ React와 Node.js는 고객사 프로젝트에서 AI 도구의 도움을 받아 �
 
 ## 💼 Experience
 
-### SotaTek Korea
+### MegazoneCloud
+`2026.10 – ` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
+
+#### SotaTek Korea
 `2025.10 – 2026.09` 고객사 프로젝트 개발 및 서비스 운영 지원
 
-### NileSOFT
+#### NileSOFT
 `2022.08 – 2025.07` 보안 솔루션 유지보수 및 개발, 릴리즈 담당
 
 <br/>
