@@ -25,7 +25,7 @@
 ## 👩‍💻 About Me
 
 - **Backend** — Java · Spring 기반 웹 서비스 개발
-- **Experience** — 보안 솔루션 개발·유지보수 및 고객사 프로젝트 수행
+- **Experience** — 보안 솔루션 개발, 유지보수 및 고객사 프로젝트 수행
 - **Operations** — 서비스 운영 지원과 솔루션 릴리즈 경험
 
 <br/>
@@ -51,7 +51,7 @@
 
 ### Also Experienced
 
-프로젝트 개발 및 운영 과정에서 사용한 기술과 도구입니다.
+프로젝트 개발 및 운영 과정에서 사용한 기술과 도구입니다. React와 Node.js는 고객사 프로젝트에서 AI 기반으로 사용했습니다.
 
 <table>
   <tr><th width="170" align="left">Category</th><th width="580" align="left">Technologies</th></tr>
@@ -80,20 +80,20 @@
   </td></tr>
 </table>
 
-React와 Node.js는 고객사 프로젝트에서 AI 도구의 도움을 받아 사용했습니다.
-
 <br/>
 
 ## 💼 Experience
 
 ### MegazoneCloud
-`2026.10 – ` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
+`2026.10 입사 예정` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
 
-#### SotaTek Korea
-`2025.10 – 2026.09` 고객사 프로젝트 개발 및 서비스 운영 지원
+<br/>
 
-#### NileSOFT
-`2022.08 – 2025.07` 보안 솔루션 유지보수 및 개발, 릴리즈 담당
+**SotaTek Korea**  
+<sub>2025.10 – 2026.09 · 고객사 프로젝트 개발 및 서비스 운영 지원 (BKR, CJ ENM)</sub>
+
+**NileSOFT**  
+<sub>2022.08 – 2025.07 · 보안 솔루션 유지보수 및 개발, 릴리즈 담당</sub>
 
 <br/>
 
