@@ -85,7 +85,7 @@
 ## 💼 Experience
 
 ### MegazoneCloud
-`2026.10 입사 예정` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
+`2026.10.06 -` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
 
 <br/>
 
