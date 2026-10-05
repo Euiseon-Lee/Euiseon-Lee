@@ -41,6 +41,7 @@
     <img src="./assets/badges/spring-mvc.svg" alt="Spring MVC" height="20" />
     <img src="./assets/badges/spring-boot.svg" alt="Spring Boot" height="20" />
     <img src="./assets/badges/mybatis.svg" alt="MyBatis" height="20" />
+    <img src="./assets/badges/jpa.svg" alt="JPA" height="20" />
   </td></tr>
   <tr><td><strong>Database</strong></td><td>
     <img src="./assets/badges/oracle.svg" alt="Oracle" height="20" />
@@ -73,6 +74,7 @@
   <tr><td><strong>Collaboration</strong></td><td>
     <img src="./assets/badges/slack.svg" alt="Slack" height="20" />
     <img src="./assets/badges/jira.svg" alt="Jira" height="20" />
+    <img src="./assets/badges/confluence.svg" alt="Confluence" height="20" />
   </td></tr>
   <tr><td><strong>Environment</strong></td><td>
     <img src="./assets/badges/linux.svg" alt="Linux" height="20" />
@@ -85,15 +87,15 @@
 ## 💼 Experience
 
 ### MegazoneCloud
-`2026.10.06 -` ServiceNow 플랫폼 기반 솔루션 설계 및 웹/앱 애플리케이션 개발
+`2026-10 ~` ServiceNow 플랫폼 기반 솔루션 설계 및 웹 애플리케이션 개발
 
 <br/>
 
 **SotaTek Korea**  
-<sub>2025.10 – 2026.09 · 고객사 프로젝트 개발 및 서비스 운영 지원 (BKR, CJ ENM)</sub>
+<sub>2025-10 ~ 2026-09 : 고객사 프로젝트 개발 및 서비스 운영 지원 (BKR, CJ ENM)</sub>
 
 **NileSOFT**  
-<sub>2022.08 – 2025.07 · 보안 솔루션 유지보수 및 개발, 릴리즈 담당</sub>
+<sub>2022-08 ~ 2025-07 : 보안 솔루션 유지보수 및 개발, 릴리즈 담당</sub>
 
 <br/>
 
